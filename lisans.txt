@@ -1,0 +1,92 @@
+____________________________________________________________
+
+       ErtemSoft Son Kullanýcý Lisans Sözleþmesi
+____________________________________________________________
+
+ErtemSoft paket programlarýnýn, izinsiz kullanýmý, kopyalanmasý, devri vb. 
+tasarruf ve eylemler, 5846 sayýlý Fikir  Ve Sanat Eserleri Kanunu ve Türk 
+Ceza Kanunu'nun 525-a,525-b,525-c maddelerine göre hukuka aykýrýdýr. 
+
+01-ErtemSoft ile Kullanýcý arasýnda düzenlenen bu sözleþme; 
+     ErtemSoft paket programlarýný sadece kullanma hakký veren bir Lisans 
+     Sözleþmesidir. Bu sözleþme, ErtemSoft'nýn programlar üzerindeki fikri 
+     mülkiyet hakkýný  asla kaldýrmaz, daraltmaz, sýnýrlamaz, hiçbir þekilde tasarruf 
+     hakkýný  etkilemez. O nedenle;
+     ErtemSoft paket programlarý izinsiz satýlamaz, kopyalanamaz, baþkasýna 
+     devredilemez, adi veya ticari þekilde kiralanamaz, yedekleme amacý 
+     dýþýnda izinsiz çoðaltýlamaz, elektronik veya optik olarak transfer 
+     edilemez, kaynak kod haline dönüþtürülemez, programlardan esinlenerek 
+     baþka programlar yapýlamaz. Buna raðmen çoðaltýlan, transfer edilen, 
+     kaynak haline dönüþtürülen "esinlenme ile yapýlan" tüm programlar zabt 
+     ve imha ettirilir. Failler hakkýnda cezai ve hukuki iþlemler baþlatýlýr.
+
+02-Bu sözleþme, ErtemSoft Paket Programlarýnýn orijinal ambalajlarýnýn 
+     açýlmasýyla veya faturaya baðlanmasýyla, taraflar yönünden baðlayýcýlýk 
+     kazanýr. Kullanýcý, ancak bu aþamadan sonra gerekli olan þifrenin 
+     kendisine bildirilmesini talep edebilir. Faturasýz, herhangi bir þekilde paket 
+     programlarýn fiili kullanýmý da; kullanan kiþinin bu sözleþme kapsamýnda 
+     sorumluluðunu gerektirir. Ayrýca bu kiþi hakkýnda, ürünün zabtý, imhasý,
+     maddi ve manevi zararlarýn tazmini dahil tüm yasal takipler baþlatýlýr. 
+
+03-Bu sözleþme, ErtemSoft Paket Programlarýnýn, faturada yazýlý adres dýþýnda 
+     kullanýlmasý, yeni bir sözleþmenin düzenlenmesini zorunlu kýlar. Sözleþmenin 
+     yapýlmamasý  halinde kullanýcý; paket programlara ait lisans sözleþmesinin 
+    geçerliliðini kaybeder. Program kopya konumundaymýþ gibi iþleme tabii tutulur.
+
+ 04-ErtemSoft, programlarýnda kullanýcýn özel isteklerini karþýlayabileceðini taahhüt 
+     etmez. ErtemSoft Paket Programlarý, faturaya baðlanmasýyla Kullanýcý tarafýndan 
+     OLDUÐU HALÝYLE kabul edilmiþ sayýlýr. 
+
+05-ErtemSoft, Paket Programlarýn kullanýlmasý, uygulanmasý ve kuruluþu esnasýnda 
+     doðrudan veya dolaylý olarak doðabilecek maddi, manevi, mali ve hukuki 
+     sonuçlardan, bu nedenlerle oluþabilecek kazanç veya kayýplardan, daha 
+     önce yapýlmýþ bir uyarý olsa dahi hiçbir þekilde sorumlu deðildir.
+
+06-ErtemSoft satýþtan  sonra eðitim veya herhangi bir hizmet desteði vermek 
+     zorunda deðildir.. Ancak ErtemSoft, zamanlamasý ve kapsamý kendi inisiyatifinde 
+     olmak üzere, paket programlarýndaki olasý hatalarý gidermek, paket programlarý 
+     geliþtirmek, günün þartlarýna ve/veya yapýlan yeni yasal düzenlemelere 
+     uyarlamak amacýyla programlarýnda deðiþiklikler yapabilir ve/veya yeni 
+     versiyonlar çýkarabilir. Bu deðiþikliklerin ve/veya yeni versiyon paket 
+     programlarýnýn kullaným hakký, Lisans Sözleþmesi olan Kullanýcýlara, istekleri 
+     üzerine ve versiyon deðiþtirme bedeli karþýlýðýnda verilir. 
+
+07-ErtemSoft, paket programlarýnýn ya da bilgisi dýþýnda çýkartýlan paket program 
+     kopyalarýnýn kullanýlmasýndan, herhangi bir kurum veya resmi mercie 
+     verilmesinden doðabilecek sonuçlardan sorumlu tutulamaz. Böyle bir durumda 
+     ErtemSoft, gerek göreceði yasal iþlemleri yaptýrma hakkýna sahiptir.
+
+08-ErtemSoft paket programlarýnýn YEDEKLENMESÝ ve SAKLANMASI kullanýcýya 
+     aittir. 
+
+09-Satýn alýnan ürün içerisinde hazýrlanan tablo ve raporlarýn kontol edilme yükümlülüðü
+      kullanýcýya aittir. Kontrol edilmeyen tablo ve raporlardan doðacak zarar, yükümlülük ve
+      sorumluluklar da ErtemSoft sorumluluk taþýmayacaktýr.
+
+10-ErtemSoft , faturada yazýlý adresi kullaným yeri, yazýþma ve tebligat adresi olarak 
+     kabul eder.
+
+11-ErtemSoft süresiz olan bu sözleþmeyi, beliren ihtiyaç ve yeni koþullara göre 
+     her zaman deðiþtirme ve güncelleþtirme hakkýný saklý tutar.
+
+11-ErtemSoft paket programlarýnýn yasa ve bu sözleþme hükümlerine aykýrý olarak 
+     kullanýlmasý, satýþý, kiralanmasý, kopyalanmasý, devri ve benzeri tasarruflara konu 
+     edilmesi halinde; tasarrufta bulunanlar hakkýnda alýnacak zorlayýcý ve acil yasal 
+     tedbirlerin yanýnda, 
+	
+     ErtemSoft tarafýndan; 
+
+		 · Lisans Sözleþmesi tek taraflý olarak iptal edilir,
+		 · Kullanýcýnýn þifresi geri alýnýr,
+		 · Kullanýcý hakkýnda ceza kovuþturmasý baþlatýlýr,
+		 · Kullanýcý hakkýnda ayrýca gerekli hukuk davalarý açýlýr,
+		 · Maddi ve manevi tüm zararlarýn talebi yoluna gidilir,
+
+13-Uyuþmazlýklarda yetkili mahkeme ve icra daireleri, Ýstanbul Mahkeme ve Ýcra 
+     Daireleridir.
+
+14-Kurulum esnasýnda sistem ve kullanýcýdan kaynaklanan hatalardan dolayý 
+     oluþabilecek sorunlardan ErtemSoft sorumlu deðildir. 
+
+15-ErtemSoft Paket programlarýný sisteminize kurduðunuz andan itibaren bu 
+     sözleþmeyi kabul etmiþ sayýlacaksýnýz...
